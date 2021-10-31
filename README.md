@@ -25,3 +25,5 @@ from bs4 import BeautifulSoup
 >![](https://img.shields.io/badge/you_can_see-my_repositories-blue?style=for-the-badge)  
 
 >![](https://img.shields.io/badge/thanks-for_the_visit-yellow?style=for-the-badge)
+
+<iframe src="https://giphy.com/embed/XVCTZNLTMPkThXrNu1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-XVCTZNLTMPkThXrNu1">via GIPHY</a></p>
