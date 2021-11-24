@@ -1,5 +1,5 @@
 
-<img align="right" src="../images/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="/images/developer.gif" alt="Coder GIF" width="420" height="330">
 
 [![Linkedin Badge](https://img.shields.io/badge/-raulsedano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com)
 [![Gmail Badge](https://img.shields.io/badge/-raulsedanomolina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:raulsedanomolina@gmail.com) 
