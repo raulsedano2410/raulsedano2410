@@ -3,16 +3,19 @@
 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-raulsedano-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raul-sedano-molina-521331167/)
-[![Gmail Badge](https://img.shields.io/badge/-raulsedanomolina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:raulsedanomolina@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Website-portfolio-blue?style=flat-square)](https://portfolio-one-gray-59.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-raulsedano-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raul-sedano-molina-521331167/)  
 
+[![Gmail Badge](https://img.shields.io/badge/-raulsedanomolina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:raulsedanomolina@gmail.com)
+
+ 
+[![Website Badge](https://img.shields.io/badge/Website-portfolio-blue?style=flat-square)](https://portfolio-one-gray-59.vercel.app/)
 
 ### 👨‍💻 About Me
 
-- 🚀 Full Stack Developer apasionado por crear soluciones innovadoras
-- ⚡ Fun fact: The first rule of programming- if it works, don't touch it.🤓
+- 🚀 Passionate Full Stack Developer <br>dedicated to building innovative solutions  
 
+- ⚡ Fun fact: The first rule of programming <br> if it works, don't touch it.🤓
+<br><br><br>
 ### 💻 Tech Stack
 
 | Frontend                                                                                  | Backend                                                                       | Web Scraping                                                                                | Development Tools                                                                              |
@@ -22,6 +25,7 @@
 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)          | ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)    | ![Requests](https://img.shields.io/badge/-Requests-000000?style=flat&logo=python)           | ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)    |
 | ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)                |                                                                               | ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)               |                                                                                                |
 | ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)                   |                                                                               |                                                                                             |                                                                                                |
+
 <div align="center">
   <h3>Show some &nbsp;👍&nbsp; by starring some of the repositories!</h3>
 </div>
