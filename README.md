@@ -8,6 +8,11 @@
 - 🚀 Full Stack Developer apasionado por crear soluciones innovadoras
 - ⚡ Fun fact: The first rule of programming- if it works, don't touch it.🤓
 
+<div align="right">
+  <img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=raulsedano2410&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+  <h3>Show some &nbsp;👍&nbsp; by starring some of the repositories!</h3>
+</div>
+
 ### 💻 Tech Stack
 
 **Frontend Development**
@@ -33,11 +38,3 @@
 - ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 - ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 - ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=raulsedano2410&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-</a>
-
-<div align="center">
-    <h3 align="center">Show some &nbsp;👍&nbsp; by starring some of the repositories!</h3>
-</div>
