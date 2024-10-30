@@ -1,5 +1,5 @@
 <div >
-<img  align="right"src="/image/developer.gif" alt="Coder GIF" width="420" height="330">
+<img  align="right"src="/images/developer.gif" alt="Coder GIF" width="420" height="330">
 
 </div>
 
